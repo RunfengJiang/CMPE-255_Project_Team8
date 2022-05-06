@@ -4,9 +4,9 @@ Abstract—COVID-19 is a contagious disease which is caused by a severe acute re
 Keywords—COVID-19, Vaccine, Data Mining, Trend Analysis
 
 ## Data
-All Data underpath: https://github.com/RunfengJiang/CMPE-255_Project_Team8/tree/main/data
-Dirty Data: https://github.com/RunfengJiang/CMPE-255_Project_Team8/blob/main/data/Vaccine_Progress_Dashboard_Data.csv
-Preprocessed Data: https://github.com/RunfengJiang/CMPE-255_Project_Team8/blob/main/data/vacc_prog_clean.csv
+- All Data underpath: https://github.com/RunfengJiang/CMPE-255_Project_Team8/tree/main/data
+- Dirty Data: https://github.com/RunfengJiang/CMPE-255_Project_Team8/blob/main/data/Vaccine_Progress_Dashboard_Data.csv
+- Preprocessed Data: https://github.com/RunfengJiang/CMPE-255_Project_Team8/blob/main/data/vacc_prog_clean.csv
 
 We are using Preprocessed as our data use for the model
 
